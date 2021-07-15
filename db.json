@@ -1,0 +1,44 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "name": "Md.Raihan Badsha",
+      "username": "raihan",
+      "email": "raihanbadsha@gmail.com",
+      "phone": "01320324587",
+      "website": "www.raihan-badsha.netlify.com"
+    },
+    {
+      "name": "Md.Jahid Hasan",
+      "username": "jahid",
+      "email": "jahidhasan@gmail.com",
+      "phone": "013654789646",
+      "website": "www.jahid-hasan.netlify.com",
+      "id": 2
+    },
+    {
+      "name": "Nasrin Akter",
+      "username": "Nasrin ",
+      "email": "nasrinakter@gmail.com",
+      "phone": "01324589763",
+      "website": "www.nasrin-akter.com",
+      "id": 3
+    },
+    {
+      "name": "Sumiya Akter",
+      "username": "sumiya",
+      "email": "sumiyaakter@gmail.com",
+      "phone": "013245967856",
+      "website": "www.sumiya-akter.com",
+      "id": 4
+    },
+    {
+      "name": "Md.Saimon Khan",
+      "username": "saimon",
+      "email": "saimonkhan@gmail.com",
+      "phone": "01987456321",
+      "website": "www.saimonkhan.io",
+      "id": 5
+    }
+  ]
+}
